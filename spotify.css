@@ -379,7 +379,7 @@ span{
     }
 }
 
-@media(max-width: 355px){
+@media(max-width: 363px){
     .side-bar{
         width: 100px;
         display: none;
@@ -450,11 +450,12 @@ span{
         height: 80px;
     }
     .epi{
-        width: 120px;
+        margin-left: 10px;
+        width: 100px;
         height: 180px;
     }
     .epi-name{
-        font-size: smaller;
+        font-size: 10px;
     }
     .epi-date{
         font-size: 8px;
